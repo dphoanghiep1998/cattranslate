@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main"
+    android:background="@drawable/ic_background_app"
+    tools:context=".ui.splash.SplashActivity">
+
+    <com.neko.hiepdph.cattranslate.common.GradientText
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_12sdp"
+        android:fontFamily="@font/app_font_600"
+        android:gravity="center"
+        android:text="@string/animal"
+        android:textSize="@dimen/_30sdp"
+        app:colorFirst="@color/dog_gradient_1"
+        app:colorSecond="@color/dog_gradient_2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/loadingSplash"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_100sdp"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toTopOf="@id/tv_loading_ads"
+        app:lottie_speed="4"
+        app:lottie_autoPlay="true"
+        app:lottie_rawRes="@raw/loading_splash"
+        app:lottie_repeatCount="-1"
+        app:lottie_repeatMode="restart" />
+
+    <TextView
+        android:id="@+id/tv_loading_ads"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_12sdp"
+        android:layout_marginTop="@dimen/_4sdp"
+        android:fontFamily="@font/app_font_500"
+        android:gravity="center"
+        android:text="@string/this_action_contains_ads_main"
+        android:textColor="@color/text"
+        android:textSize="@dimen/_14sdp"
+        android:layout_marginBottom="@dimen/_12sdp"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="loading_ads_new">Animal Translator çalışıyor, lütfen bekleyiniz.....</string>
+  <string name="dog">KÖPEK</string>
+  <string name="select_translation_mode">Ses modunu seçin!</string>
+  <string name="click_to_start_recording">Kaydı başlatmak için tıklayın…</string>
+  <string name="click_again_to_stop">Kaydı durdurmak için tekrar tıklayın…</string>
+  <string name="recording">Kayıt…</string>
+  <string name="play_instruction">Çevrilmiş mesajı oynat</string>
+  <string name="curious">Meraklı</string>
+  <string name="suspicious">Şüpheli</string>
+  <string name="stalking">Takip</string>
+  <string name="guilty">Suçlu</string>
+  <string name="let_play">Hadi oynayalım</string>
+  <string name="angry">Sinirli</string>
+  <string name="friendly">Arkadaşça</string>
+  <string name="requires">Gereklilikler</string>
+  <string name="scared">Korkmuş</string>
+  <string name="happy">Mutlu</string>
+  <string name="tired">Yorgun</string>
+  <string name="trusts">Tröstler</string>
+  <string name="this_action_contains_ads_main">(Bu işlem reklam içerebilir)</string>
+  <string name="language_up">DİL</string>
+  <string name="done">TAMAMLAMAK</string>
+  <string name="star_rate">Daha iyi bir kullanıcı deneyimi sağlamak için çok çalışıyoruz. Bizi takdir edebileceğinizi umuyoruz.</string>
+  <string name="five_rate">BİZİ DEĞERLENDİRİN</string>
+  <string name="later">DAHA SONRA</string>
+  <string name="hello">Merhaba</string>
+  <string name="how_are_you">Nasılsın</string>
+  <string name="good_cat">İyi kedi</string>
+  <string name="bad_cat">Kötü kedi</string>
+  <string name="i_love_you">Seni seviyorum</string>
+  <string name="come_here">Buraya gel</string>
+  <string name="fine">İyi</string>
+  <string name="no_no">Hayır hayır hayır</string>
+  <string name="should_not">Yapmamalı</string>
+  <string name="yes">Evet</string>
+  <string name="leave_me_alone">Beni yalnız bırakın</string>
+  <string name="what_have_you_done">Sen ne yaptın</string>
+  <string name="you_are_punisshed">Cezalandırıldın</string>
+  <string name="last_warning">Son uyarı</string>
+  <string name="im_angry_with_you">Sana kızgınım</string>
+  <string name="recording_warning">Kayıt yapıyorsunuz, çeviri türünü değiştirmek için tekrar tıklayın</string>
+  <string name="playing_warning">Ses bittiğinde modu seçin</string>
+  <string name="stop_record_to_play">Kaydı oynatmak için kaydı durdurun!</string>
+  <string name="sound_cat">Kedi sesi</string>
+  <string name="sound_dog">Köpek sesi</string>
+  <string name="sound_prank">Ses şakası</string>
+  <string name="animal">ANIMAL\nTRANSLATOR</string>
+
+  <string name="translator">ÇEVİRMEN</string>
+</resources>

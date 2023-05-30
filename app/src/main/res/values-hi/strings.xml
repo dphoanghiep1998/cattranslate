@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="loading_ads_new">पशु अनुवादक चल रहा है, कृपया प्रतीक्षा करें...</string>
+  <string name="dog">कुत्ता</string>
+  <string name="select_translation_mode">ध्वनि मोड का चयन करें!</string>
+  <string name="click_to_start_recording">रिकॉर्डिंग शुरू करने के लिए क्लिक करें…</string>
+  <string name="click_again_to_stop">रिकॉर्डिंग बंद करने के लिए फिर से क्लिक करें...</string>
+  <string name="recording">रिकॉर्डिंग…</string>
+  <string name="play_instruction">अनुवादित संदेश चलाएं</string>
+  <string name="curious">जिज्ञासु</string>
+  <string name="suspicious">संदिग्ध</string>
+  <string name="stalking">पीछा करना</string>
+  <string name="guilty">अपराधी</string>
+  <string name="let_play">आइए खेलते हैं</string>
+  <string name="angry">गुस्सा</string>
+  <string name="friendly">दोस्ताना</string>
+  <string name="requires">आवश्यक है</string>
+  <string name="scared">डरा हुआ</string>
+  <string name="happy">खुश</string>
+  <string name="tired">थका हुआ</string>
+  <string name="trusts">न्यास</string>
+  <string name="this_action_contains_ads_main">(इस क्रिया में विज्ञापन हो सकते हैं)</string>
+  <string name="language_up">भाषा</string>
+  <string name="done">पूर्ण</string>
+  <string name="star_rate">हम बेहतर उपयोगकर्ता अनुभव प्रदान करने के लिए कड़ी मेहनत कर रहे हैं। हमें आशा है कि आप हमारी सराहना कर सकते हैं।</string>
+  <string name="five_rate">हमें रेटिंग दें</string>
+  <string name="later">बाद में</string>
+  <string name="hello">नमस्ते</string>
+  <string name="how_are_you">आप कैसे हैं</string>
+  <string name="good_cat">अच्छी बिल्ली</string>
+  <string name="bad_cat">बैड कैट</string>
+  <string name="i_love_you">मुझे तुमसे प्यार है</string>
+  <string name="come_here">यहाँ आओ</string>
+  <string name="fine">अच्छा</string>
+  <string name="no_no">नहीं, नहीं, नहीं</string>
+  <string name="should_not">नहीं चाहिए</string>
+  <string name="yes">हाँ</string>
+  <string name="leave_me_alone">मुझे अकेला छोड़ दो</string>
+  <string name="what_have_you_done">क्या कर डाले</string>
+  <string name="you_are_punisshed">आपको सजा दी जाती है</string>
+  <string name="last_warning">अंतिम चेतावनी</string>
+  <string name="im_angry_with_you">मैं तुम से नाराज हूं</string>
+  <string name="recording_warning">आप रिकॉर्ड कर रहे हैं, अनुवाद का प्रकार बदलने के लिए फिर से क्लिक करें</string>
+  <string name="playing_warning">ध्वनि समाप्त होने पर मोड का चयन करें</string>
+  <string name="stop_record_to_play">रिकॉर्ड चलाने के लिए रिकॉर्डिंग बंद करो!</string>
+  <string name="sound_cat">बिल्ली की आवाज</string>
+  <string name="sound_dog">कुत्ते की आवाज</string>
+  <string name="sound_prank">ध्वनि शरारत</string>
+  <string name="animal">ANIMAL\nTRANSLATOR</string>
+
+  <string name="translator">अनुवादक</string>
+</resources>

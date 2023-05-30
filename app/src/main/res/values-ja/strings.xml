@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="loading_ads_new">Animal Translator が実行中です。お待​​ちください....</string>
+  <string name="dog">犬</string>
+  <string name="select_translation_mode">サウンドモードを選択してください！</string>
+  <string name="click_to_start_recording">クリックして録音を開始します…</string>
+  <string name="click_again_to_stop">もう一度クリックすると録音が停止します…</string>
+  <string name="recording">録音…</string>
+  <string name="play_instruction">翻訳されたメッセージを再生する</string>
+  <string name="curious">奇妙</string>
+  <string name="suspicious">疑わしい</string>
+  <string name="stalking">ストーキング</string>
+  <string name="guilty">有罪</string>
+  <string name="let_play">遊ぼう</string>
+  <string name="angry">怒り</string>
+  <string name="friendly">フレンドリー</string>
+  <string name="requires">必要</string>
+  <string name="scared">怖がった</string>
+  <string name="happy">ハッピー</string>
+  <string name="tired">疲れた</string>
+  <string name="trusts">信託</string>
+  <string name="this_action_contains_ads_main">(このアクションには広告が含まれる場合があります)</string>
+  <string name="language_up">言語</string>
+  <string name="done">終わり</string>
+  <string name="star_rate">私たちはより良いユーザーエクスペリエンスを提供するために懸命に取り組んでいます。 ぜひご評価ください。</string>
+  <string name="five_rate">私たちを評価してください</string>
+  <string name="later">後で</string>
+  <string name="hello">こんにちは</string>
+  <string name="how_are_you">元気ですか</string>
+  <string name="good_cat">良い猫</string>
+  <string name="bad_cat">悪い猫</string>
+  <string name="i_love_you">愛してます</string>
+  <string name="come_here">ここに来て</string>
+  <string name="fine">大丈夫</string>
+  <string name="no_no">ダメダメダメ</string>
+  <string name="should_not">いけない</string>
+  <string name="yes">はい</string>
+  <string name="leave_me_alone">私をほっといて</string>
+  <string name="what_have_you_done">あなたは何をした</string>
+  <string name="you_are_punisshed">あなたは罰せられます</string>
+  <string name="last_warning">最後の警告</string>
+  <string name="im_angry_with_you">私はあなたに怒っています</string>
+  <string name="recording_warning">録音中です。もう一度クリックして翻訳の種類を変更します</string>
+  <string name="playing_warning">音が終わったらモードを選択する</string>
+  <string name="stop_record_to_play">記録を再生するには記録を停止してください。</string>
+  <string name="sound_cat">猫の鳴き声</string>
+  <string name="sound_dog">犬の鳴き声</string>
+  <string name="sound_prank">音のいたずら</string>
+  <string name="animal">ANIMAL\nTRANSLATOR</string>
+
+  <string name="translator">翻訳者</string>
+</resources>

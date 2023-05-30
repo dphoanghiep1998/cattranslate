@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="loading_ads_new">Animal Translator sedang berjalan, harap tunggu.....</string>
+  <string name="dog">ANJING</string>
+  <string name="select_translation_mode">Pilih mode suara!</string>
+  <string name="click_to_start_recording">Klik untuk mulai merekam…</string>
+  <string name="click_again_to_stop">Klik lagi untuk berhenti merekam…</string>
+  <string name="recording">Rekaman…</string>
+  <string name="play_instruction">Putar pesan yang diterjemahkan</string>
+  <string name="curious">Penasaran</string>
+  <string name="suspicious">Mencurigakan</string>
+  <string name="stalking">Menguntit</string>
+  <string name="guilty">Bersalah</string>
+  <string name="let_play">Mari main</string>
+  <string name="angry">Marah</string>
+  <string name="friendly">Ramah</string>
+  <string name="requires">Memerlukan</string>
+  <string name="scared">Takut</string>
+  <string name="happy">Senang</string>
+  <string name="tired">Lelah</string>
+  <string name="trusts">Percaya diri</string>
+  <string name="this_action_contains_ads_main">(Tindakan ini dapat berisi iklan)</string>
+  <string name="language_up">BAHASA</string>
+  <string name="done">SELESAI</string>
+  <string name="star_rate">Kami bekerja keras untuk memberikan pengalaman pengguna yang lebih baik. Kami harap Anda dapat menghargai kami.</string>
+  <string name="five_rate">TINGKAT KAMI</string>
+  <string name="later">NANTI</string>
+  <string name="hello">Halo</string>
+  <string name="how_are_you">Apa kabarmu</string>
+  <string name="good_cat">Kucing yang baik</string>
+  <string name="bad_cat">Kucing nakal</string>
+  <string name="i_love_you">Aku mencintaimu</string>
+  <string name="come_here">Kemarilah</string>
+  <string name="fine">Bagus</string>
+  <string name="no_no">Tidak tidak tidak</string>
+  <string name="should_not">Jangan</string>
+  <string name="yes">Ya</string>
+  <string name="leave_me_alone">Tinggalkan aku sendiri</string>
+  <string name="what_have_you_done">Apa yang telah kau lakukan</string>
+  <string name="you_are_punisshed">Anda dihukum</string>
+  <string name="last_warning">Peringatan terakhir</string>
+  <string name="im_angry_with_you">Aku marah padamu</string>
+  <string name="recording_warning">Anda sedang merekam, klik lagi untuk mengubah jenis terjemahan</string>
+  <string name="playing_warning">Pilih mode saat suara berakhir</string>
+  <string name="stop_record_to_play">Berhenti merekam untuk memutar rekaman!</string>
+  <string name="sound_cat">Suara kucing</string>
+  <string name="sound_dog">Suara anjing</string>
+  <string name="sound_prank">Lelucon suara</string>
+  <string name="animal">ANIMAL\nTRANSLATOR</string>
+
+  <string name="translator">PENERJEMAH</string>
+</resources>

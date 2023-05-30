@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="loading_ads_new">Animal Translator est en cours d\'exécution, veuillez patienter.....</string>
+  <string name="dog">CHIEN</string>
+  <string name="select_translation_mode">Sélectionnez le mode son !</string>
+  <string name="click_to_start_recording">Cliquez pour démarrer l\'enregistrement…</string>
+  <string name="click_again_to_stop">Cliquez à nouveau pour arrêter l\'enregistrement…</string>
+  <string name="recording">Enregistrement…</string>
+  <string name="play_instruction">Lire le message traduit</string>
+  <string name="curious">Curieux</string>
+  <string name="suspicious">Suspect</string>
+  <string name="stalking">Traquer</string>
+  <string name="guilty">Coupable</string>
+  <string name="let_play">Jouons</string>
+  <string name="angry">En colère</string>
+  <string name="friendly">Amical</string>
+  <string name="requires">A besoin</string>
+  <string name="scared">Effrayé</string>
+  <string name="happy">Content</string>
+  <string name="tired">Fatigué</string>
+  <string name="trusts">Fiducies</string>
+  <string name="this_action_contains_ads_main">(Cette action peut contenir des publicités)</string>
+  <string name="language_up">LANGUE</string>
+  <string name="done">FAIT</string>
+  <string name="star_rate">Nous travaillons dur pour offrir une meilleure expérience utilisateur. Nous espérons que vous pourrez nous apprécier.</string>
+  <string name="five_rate">ÉVALUEZ NOUS</string>
+  <string name="later">PLUS TARD</string>
+  <string name="hello">Bonjour</string>
+  <string name="how_are_you">Comment allez-vous</string>
+  <string name="good_cat">Bon chat</string>
+  <string name="bad_cat">Mauvais chat</string>
+  <string name="i_love_you">Je t\'aime</string>
+  <string name="come_here">Venez ici</string>
+  <string name="fine">Bien</string>
+  <string name="no_no">Non non Non</string>
+  <string name="should_not">Ne devrait pas</string>
+  <string name="yes">Oui</string>
+  <string name="leave_me_alone">Laisse-moi tranquille</string>
+  <string name="what_have_you_done">Qu\'avez-vous fait</string>
+  <string name="you_are_punisshed">Tu es puni</string>
+  <string name="last_warning">Dernier avertissement</string>
+  <string name="im_angry_with_you">Je suis fachée contre toi</string>
+  <string name="recording_warning">Vous êtes en train d\'enregistrer, cliquez à nouveau pour changer le type de traduction</string>
+  <string name="playing_warning">Sélectionnez le mode lorsque le son se termine</string>
+  <string name="stop_record_to_play">Arrêtez l\'enregistrement pour lire l\'enregistrement !</string>
+  <string name="sound_cat">Bruit de chat</string>
+  <string name="sound_dog">Bruit de chien</string>
+  <string name="sound_prank">Blague sonore</string>
+  <string name="animal">ANIMAL\nTRANSLATOR</string>
+
+  <string name="translator">TRADUCTEUR</string>
+</resources>

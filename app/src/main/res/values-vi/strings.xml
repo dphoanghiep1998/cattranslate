@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="loading_ads_new">Dog Translate đang chạy, vui lòng đợi.....</string>
+  <string name="dog">CHÓ</string>
+  <string name="select_translation_mode">Chọn chế độ </string>
+  <string name="click_to_start_recording">Nhấp để bắt đầu ghi âm…</string>
+  <string name="click_again_to_stop">Nhấp một lần nữa để dừng ghi âm…</string>
+  <string name="recording">Ghi âm…</string>
+  <string name="play_instruction">Phát âm thanh đã dịch</string>
+  <string name="curious">Tò mò</string>
+  <string name="suspicious">Khả nghi</string>
+  <string name="stalking">Rình rập</string>
+  <string name="guilty">Tội lỗi</string>
+  <string name="let_play">Vui chơi</string>
+  <string name="angry">Tức giận</string>
+  <string name="friendly">Thân thiện</string>
+  <string name="requires">Đòi hỏi</string>
+  <string name="scared">Sợ hãi</string>
+  <string name="happy">Vui mừng</string>
+  <string name="tired">Mệt</string>
+  <string name="trusts">Tin tưởng</string>
+  <string name="language_up">NGÔN NGỮ</string>
+  <string name="done">XONG</string>
+  <string name="this_action_contains_ads_main">(Hành động này có thể chứa quảng cáo)</string>
+  <string name="star_rate">Chúng tôi đang nỗ lực để cung cấp trải nghiệm người dùng tốt hơn. Hy vọng bạn có thể đánh giá chúng tôi.</string>
+  <string name="five_rate">ĐÁNH GIÁ CHÚNG TÔI</string>
+  <string name="later">ĐỂ SAU</string>
+
+  <string name="hello">Xin chào</string>
+  <string name="how_are_you">Bạn có khỏe không</string>
+  <string name="good_cat">Con mèo tốt</string>
+  <string name="bad_cat">Con mèo xấu</string>
+  <string name="i_love_you">Anh yêu em</string>
+  <string name="come_here">Đến đây</string>
+  <string name="fine">Khỏe</string>
+  <string name="no_no">Không không</string>
+  <string name="should_not">Không nên</string>
+  <string name="yes">Vâng</string>
+  <string name="leave_me_alone">Để tôi yên</string>
+  <string name="what_have_you_done">Bạn đã làm gì</string>
+  <string name="you_are_punisshed">Bạn bị trừng phạt</string>
+  <string name="last_warning">Cảnh báo cuối cùng</string>
+  <string name="im_angry_with_you">Tôi giận bạn</string>
+  <string name="recording_warning">Bạn đang ghi âm, ấn lần nữa để có thể thay đổi loại ghi âm</string>
+  <string name="playing_warning">Chọn chế độ khi âm thanh kết thúc</string>
+  <string name="stop_record_to_play">Dừng ghi âm để phát âm thanh </string>
+
+  <string name="sound_cat">Tiếng mèo méo meo mèo meo</string>
+  <string name="sound_dog">Tiếng chó ẳng ẳng</string>
+  <string name="sound_prank">Ghi âm tiếng động vật (trêu đùa)</string>
+  <string name="animal">ANIMAL\nTRANSLATOR</string>
+  <string name="translator">TRANSLATOR</string>
+</resources>

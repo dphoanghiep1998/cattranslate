@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="loading_ads_new">El traductor de animales se está ejecutando, por favor espere...</string>
+  <string name="dog">PERRO</string>
+  <string name="select_translation_mode">¡Seleccione el modo de sonido!</string>
+  <string name="click_to_start_recording">Haga clic para comenzar a grabar...</string>
+  <string name="click_again_to_stop">Haga clic de nuevo para detener la grabación...</string>
+  <string name="recording">Grabación…</string>
+  <string name="play_instruction">Reproducir mensaje traducido</string>
+  <string name="curious">Curioso</string>
+  <string name="suspicious">Sospechoso</string>
+  <string name="stalking">Acecho</string>
+  <string name="guilty">Culpable</string>
+  <string name="let_play">Vamos a jugar</string>
+  <string name="angry">Enojado</string>
+  <string name="friendly">Amigable</string>
+  <string name="requires">Requiere</string>
+  <string name="scared">Asustado</string>
+  <string name="happy">Feliz</string>
+  <string name="tired">Cansado</string>
+  <string name="trusts">Fideicomisos</string>
+  <string name="this_action_contains_ads_main">(Esta acción puede contener anuncios)</string>
+  <string name="language_up">IDIOMA</string>
+  <string name="done">HECHO</string>
+  <string name="star_rate">Estamos trabajando arduamente para brindar una mejor experiencia de usuario. Esperamos que pueda apreciarnos.</string>
+  <string name="five_rate">NOS CALIFICA</string>
+  <string name="later">MÁS TARDE</string>
+  <string name="hello">Hola</string>
+  <string name="how_are_you">Cómo estás</string>
+  <string name="good_cat">Buen gato</string>
+  <string name="bad_cat">Gato malo</string>
+  <string name="i_love_you">Te amo</string>
+  <string name="come_here">Ven aquí</string>
+  <string name="fine">Bien</string>
+  <string name="no_no">No no no</string>
+  <string name="should_not">No debe</string>
+  <string name="yes">Sí</string>
+  <string name="leave_me_alone">Déjame en paz</string>
+  <string name="what_have_you_done">Qué has hecho</string>
+  <string name="you_are_punisshed">Estas castigado</string>
+  <string name="last_warning">Última advertencia</string>
+  <string name="im_angry_with_you">Estoy enojado contigo</string>
+  <string name="recording_warning">Estás grabando, haz clic de nuevo para cambiar el tipo de traducción</string>
+  <string name="playing_warning">Seleccione el modo cuando finalice el sonido.</string>
+  <string name="stop_record_to_play">¡Deja de grabar para reproducir el registro!</string>
+  <string name="sound_cat">Sonido de gato</string>
+  <string name="sound_dog">Sonido de perro</string>
+  <string name="sound_prank">Broma de sonido</string>
+  <string name="animal">ANIMAL\nTRANSLATOR</string>
+
+  <string name="translator">TRADUCTOR</string>
+</resources>

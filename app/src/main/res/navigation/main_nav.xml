@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav"
+    app:startDestination="@id/languageFragment">
+
+    <fragment
+        android:id="@+id/languageFragment"
+        android:name="com.neko.hiepdph.cattranslate.ui.main.LanguageFragment"
+        android:label="fragment_language"
+        tools:layout="@layout/fragment_language" />
+    <fragment
+        android:id="@+id/languageFragmentSecond"
+        android:name="com.neko.hiepdph.cattranslate.ui.main.LanguageFragmentSecond"
+        android:label="LanguageFragmentSecond" />
+    <fragment
+        android:id="@+id/catPrankFragment"
+        android:name="com.neko.hiepdph.cattranslate.ui.main.CatPrankFragment"
+        android:label="CatPrankFragment" />
+    <fragment
+        android:id="@+id/dogFragment"
+        android:name="com.neko.hiepdph.cattranslate.ui.main.DogFragment"
+        android:label="DogFragment" />
+    <fragment
+        android:id="@+id/birdFragment"
+        android:name="com.neko.hiepdph.cattranslate.ui.main.BirdFragment"
+        android:label="fragment_cat_prank"
+        tools:layout="@layout/fragment_cat_prank" />
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.neko.hiepdph.cattranslate.ui.main.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" />
+    <fragment
+        android:id="@+id/prankRecordFragment"
+        android:name="com.neko.hiepdph.cattranslate.ui.main.PrankRecordFragment"
+        android:label="fragment_prank_record"
+        tools:layout="@layout/fragment_prank_record" />
+</navigation>

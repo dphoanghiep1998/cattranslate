@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125513842259",
+    "project_id": "cat-translate---nekosoft",
+    "storage_bucket": "cat-translate---nekosoft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125513842259:android:778acf224fac57bbbd10a6",
+        "android_client_info": {
+          "package_name": "com.cat.translate.dog.translate.prank.animal.joke"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0wUKSYLo8G-3JZ4sxEH0t3PIgceZgUCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

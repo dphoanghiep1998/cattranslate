@@ -1,0 +1,55 @@
+<resources>
+
+    <string name="loading_ads_new">Animal Translator is running, please wait.....</string>
+
+    <string name="dog">DOG</string>
+    <string name="select_translation_mode">Select sound mode!</string>
+    <string name="click_to_start_recording">Click to start recording …</string>
+    <string name="click_again_to_stop">Click again to stop recording …</string>
+    <string name="recording">Recording…</string>
+    <string name="play_instruction">Play translated message</string>
+    <string name="curious">Curious</string>
+    <string name="suspicious">Suspicious</string>
+    <string name="stalking">Stalking</string>
+    <string name="guilty">Guilty</string>
+    <string name="let_play">Let’s Play</string>
+    <string name="angry">Angry</string>
+    <string name="friendly">Friendly</string>
+    <string name="requires">Requires</string>
+    <string name="scared">Scared</string>
+    <string name="happy">Happy</string>
+    <string name="tired">Tired</string>
+    <string name="trusts">Trusts</string>
+    <string name="this_action_contains_ads_main">(This action can contain ads)</string>
+    <string name="language_up">LANGUAGE</string>
+    <string name="done">DONE</string>
+
+    <string name="star_rate">We are working hard to provide a better user experience. We hope you can appreciate us.</string>
+    <string name="five_rate">RATE US</string>
+    <string name="later">LATER</string>
+    <string name="hello">Hello</string>
+    <string name="how_are_you">How are you</string>
+    <string name="good_cat">Good cat</string>
+    <string name="bad_cat">Bad cat</string>
+    <string name="i_love_you">I love you</string>
+    <string name="come_here">Come here</string>
+    <string name="fine">Fine</string>
+    <string name="no_no">No no no</string>
+    <string name="should_not">Should not</string>
+    <string name="yes">Yes</string>
+    <string name="leave_me_alone">Leave me alone</string>
+    <string name="what_have_you_done">What have you done</string>
+    <string name="you_are_punisshed">You are punisshed</string>
+    <string name="last_warning">Last warning</string>
+    <string name="im_angry_with_you">I\'m angry at you</string>
+    <string name="recording_warning">You are recording, click again to change type of translation</string>
+    <string name="playing_warning">Select the mode when the sound ends</string>
+    <string name="stop_record_to_play">Stop recording to play record!</string>
+
+
+    <string name="sound_cat">Sound of cat</string>
+    <string name="sound_dog">Sound of dog</string>
+    <string name="sound_prank">Sound prank</string>
+    <string name="animal">ANIMAL\nTRANSLATOR</string>
+    <string name="translator">TRANSLATOR</string>
+</resources>
